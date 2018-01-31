@@ -1,0 +1,8 @@
+C:\Face\FaceExpression\FaceExpression\bin\Release\FaceExpression.exe.config
+C:\Face\FaceExpression\FaceExpression\bin\Release\FaceExpression.exe
+C:\Face\FaceExpression\FaceExpression\bin\Release\FaceExpression.pdb
+C:\Face\FaceExpression\FaceExpression\obj\Release\FaceExpression.Form1.resources
+C:\Face\FaceExpression\FaceExpression\obj\Release\FaceExpression.Properties.Resources.resources
+C:\Face\FaceExpression\FaceExpression\obj\Release\FaceExpression.csproj.GenerateResource.Cache
+C:\Face\FaceExpression\FaceExpression\obj\Release\FaceExpression.exe
+C:\Face\FaceExpression\FaceExpression\obj\Release\FaceExpression.pdb

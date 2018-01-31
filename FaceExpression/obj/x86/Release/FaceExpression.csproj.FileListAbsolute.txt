@@ -1,0 +1,17 @@
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\FaceExpression.exe.config
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\FaceExpression.exe
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\FaceExpression.pdb
+C:\Face\FaceExpression\FaceExpression\obj\x86\Release\FaceExpression.Form1.resources
+C:\Face\FaceExpression\FaceExpression\obj\x86\Release\FaceExpression.Properties.Resources.resources
+C:\Face\FaceExpression\FaceExpression\obj\x86\Release\FaceExpression.csproj.GenerateResource.Cache
+C:\Face\FaceExpression\FaceExpression\obj\x86\Release\FaceExpression.exe
+C:\Face\FaceExpression\FaceExpression\obj\x86\Release\FaceExpression.pdb
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\Emgu.CV.UI.dll
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\Emgu.CV.World.dll
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\ZedGraph.dll
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\Emgu.CV.UI.xml
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\Emgu.CV.World.xml
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\MahApps.Metro.dll
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\MahApps.Metro.pdb
+C:\Face\FaceExpression\FaceExpression\bin\x86\Release\MahApps.Metro.xml
